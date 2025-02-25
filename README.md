@@ -1,4 +1,4 @@
-# 3.4_metacrafters_bhakti
+# Blockchain_Metacrafters_Module 3.4
 
 # Degen Gaming Token (DG) Smart Contract
 
